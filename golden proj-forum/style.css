@@ -1,0 +1,41 @@
+*{
+    font-family: 'EB Garamond', serif;
+}
+body {
+    margin: 10px 60px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+h1, h4, ol {
+    margin: 0;
+}
+p {
+    margin: 5px 0;
+}
+.top-bar {
+    background-color: rgb(18, 251, 6);
+    padding: 0 40px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+.top-bar h1{
+    text-align: center;
+}
+.main {
+    background-color: #aaf8ab;
+    padding: 10px 15px;
+    border-radius: 20px;
+}
+.row {
+    padding: 5px 0;
+}
+.bottom {
+    display: flex;
+    color: rgb(58, 58, 58);
+    font-size: 14px;
+}
+.timestamp {
+    padding-right: 10px;
+}
